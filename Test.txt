@@ -3,3 +3,6 @@ Hello World
 - Java Script
 - PHP
 - Python
+- SQL
+Fr
+- Laravel
